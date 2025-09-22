@@ -1,2 +1,2 @@
-![Imagem 1](Imgs/1-sqlitecompose.jpg)
-![Imagem 2](Imgs/2-sqlitecompose.jpg)
+![1-sqlitecompose](Imgs/1-sqlitecompose.jpg)
+![2-sqlitecompose](Imgs/2-sqlitecompose.jpg)
