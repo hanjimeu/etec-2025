@@ -2,6 +2,6 @@
 
 ## Imagens
 
-![Página 1](./Imgs/1-Dice Roller.jpeg)
-![Página 2](./Imgs/2-Dice Roller.jpeg)
-![Página 3](./Imgs/3-Dice Roller.jpeg)
+![Página 1](./imagens/1-Dice Roller.jpeg)
+![Página 2](./imagens/2-Dice Roller.jpeg)
+![Página 3](./imagens/3-Dice Roller.jpeg)
